@@ -1,0 +1,6 @@
+com/bank/account/service/OperationServiceUnitTest.class
+com/bank/account/BaseIntegrationTest.class
+com/bank/account/util/CurrencyUtilTest.class
+com/bank/account/service/AccountServiceIntegrationTest.class
+com/bank/account/service/OperationServiceIntegrationTest.class
+com/bank/account/service/ClientServiceIntegrationTest.class
